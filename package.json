@@ -1,0 +1,22 @@
+{
+  "name": "FN-LobbyBot-Template",
+  "version": "1.8.0",
+  "description": "",
+  "main": "main/index.js",
+  "scripts": {
+    "start": "node main/index.js"
+  },
+  "keywords": [
+    "fortnite",
+    "lobbybot",
+    "discord"
+  ],
+  "author": "WithGex",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "express": "^4.17.1",
+    "fnbr": "^1.4.1",
+    "node-fetch": "^2.6.1"
+  }
+}
